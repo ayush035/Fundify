@@ -155,7 +155,7 @@ export default function Purchase() {
                       Create Your Own Grant</div> */}
 
         <div className=' flex justify-center my-20'>
-          <div className=' flex flex-col  rounded-md bg-gray-300 '>
+          <div className=' flex flex-col  rounded-md bg-gray-200 ring-2 ring-cyan-900 '>
             <div className='my-6'>
               <div className='flex justify-center my-4'>
               <div className='text-2xl font-mono font-bold text-black '>
@@ -163,10 +163,10 @@ export default function Purchase() {
                  </div></div>
         <main className={styles.main}>
           <div className={styles.inputGroup}>
-            <span className=' text-md font-mono mx-4 my-2'>Name: </span>
+            <span className=' text-black text-md font-mono mx-4 my-2'>Name: </span>
             <div className='flex'>
             <input
-            className="px-4 h-8  rounded-lg  bg-gray-800 text-gray-400 "
+            className="px-4 h-8  rounded-lg  bg-white text-black ring-1 ring-black"
               type="text"
               value={name}
               placeholder="Grant Name"
@@ -175,9 +175,9 @@ export default function Purchase() {
             {/* <span>.fns</span> */}
           </div>
           <div className={styles.inputGroup}>
-            <label className='text-sm' > Categories: </label>
+            <label className='text-sm text-black font-mono' > Categories: </label>
             <input
-            className="px-4 h-8  rounded-lg  bg-gray-800 text-gray-400  "
+            className="px-4 h-8  rounded-lg  bg-white text-black ring-1 ring-black "
               list="categories"
               placeholder=" Select"
               value={category}
@@ -213,7 +213,7 @@ export default function Purchase() {
             />
             <span>years</span>
           </div> */}
-                  <div className='inline-block rounded bg-green-600 px-6 pt-2.5 pb-2 text-md   text-white hover:bg-green-500 font-semibold '>
+                  <div className='inline-block rounded bg-cyan-900 px-6 pt-2.5 pb-2 text-md   text-white hover:bg-cyan-700 font-semibold '>
           <button onClick={purchase}>Create</button></div>
           {/* <p>Cost:{cost} FLOW</p> */}
           <p>{loading ? "Loading..." : null}</p>
