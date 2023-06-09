@@ -8,6 +8,12 @@ import styles from "../styles/Home.module.css";
 import b from'../public/b.jpg'
 import m from'../public/m.png'
 import e from'../public/e.jpg'
+import xyz from'../public/xyz.jpg'
+import x from'../public/x.jpg'
+import y from'../public/y.jpg'
+
+
+
 import Footer from '../components/Footer'
 
 export default function Home() {
@@ -72,26 +78,26 @@ async function getFlowns(url){
 
       <div className='grid grid-cols-2'>
         <div className=' flex flex-col=-2'>
-      <div className ='my-20 mx-20 transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-105'>
+      <div className ='my-20 mx-20 '>
 <Image 
-src={b}
+src={xyz}
 alt=''
-width="400"
-height="400"/>
+width="600"
+height="600"/>
 </div>
 </div>
 <div className=' flex flex-col'>
-<div className ='my-20 mx-20 transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-105'>
+<div className ='my-20 mx-20 '>
 <Image 
-src={m}
+src={x}
 alt=''
-width="350"
+width="400"
 height="400"/>
 </div>
 </div></div>
 <div className ='my-20 mx-20'>
 <Image 
-src={e}
+src={y}
 alt=''
 width="1100"
 height="400"/>
