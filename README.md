@@ -1,7 +1,7 @@
-### 👋 Welcome to Raise!
-Raise is a platform to Support Public Goods and Open Source Projects in the Flow Ecosystem.
+### 👋 Welcome to Fundify!
+Fundify is a platform to Support Public Goods and Open Source Projects in the Flow Ecosystem.
 
-###  The problem Raise solves
+###  The problem Fundify solves
 
 - Generally, many innovative and creative projects with highly efficient ideas and structures fail to succeed and expand as their growth stops due to insufficient funds and resources. We have brought up a solution in the most efficient and Advanced Manner
 - Any Project/ Startup in need of funds and investment can easily list their project on our platform. We provide public exposure to those projects listed in our application.
@@ -23,33 +23,4 @@ Raise is a platform to Support Public Goods and Open Source Projects in the Flow
 - It took days and nights of hard work to make us this project we’ve gone through multiple sleepless nights, just working through this project to give it all we had and here we are Full and Finally complete for submission.
 
 
-### Sponsor tracks and prizes
-
-**Extending the Ecosystem**
-
-Raise can support public goods and open-source projects on the Flow ecosystem.
-This would help existing and trending projects in the ecosystem like Flovatar, IncrementFi, and NBA TopShot to raise funds for their projects thus extending the Flow ecosystem to the next million users.
-Also, DeFi protocols can also set up bug bounty programs in the upcoming features of our platform.
-
-**Best app building on FlowNS**
-
-We've used FlowNS script to showcase the FlowNS Domain names owned by the users and the creator of the grant.
-- GitHub Code for FlowNS Integration -  - https://github.com/aviral10x/raise/blob/main/web/flow/scripts.js
-
-
-**Best Use Of Walletless Onboarding Track**
-
-We've used Niftory's Wallet API to help onboard tons of users from the Web2 space and allow them to fund grants in our platform and also to create grants and get their projects funded.
-
-
-**Best app using Niftory's NFT and Wallet APIs**
-
-
-- Best app using Niftory's NFT and Wallet APIs - https://github.com/aviral10x/raise/tree/main/niftory
-
-### Important Links
-
-- Web App - https://raise-web.vercel.app/
-- Landing Page - https://raise-3.vercel.app/
-- Presentation Slides - https://pitch.com/public/6cb7367b-cbb2-4b45-abc8-b00e98d46b03
 
